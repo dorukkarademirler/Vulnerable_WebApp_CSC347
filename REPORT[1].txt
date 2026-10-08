@@ -1,0 +1,75 @@
+--------------------------------------------------------------------
+                              ISSUE 0:
+
+
+--------------------------------------------------------------------
+                              ISSUE 1
+Vulnerability: Describe where the code is vulnerable (function and line number(s)),
+and what the issue is.
+
+Exploit a: Outline a specific exploit for the above vulnerability.
+The exploit should be found in /vulnerable/exploits/e1a (create this directory and add it to your submission)
+
+Impact a: Outline the impact of the exploit, including why it is C/I or A.
+
+Did you provide a fix for this issue: yes/no
+
+--------------------------------------------------------------------
+                              ISSUE 2
+Vulnerability: Describe where the code is vulnerable (function and line number(s)),
+and what the issue is.
+
+Exploit a:
+Impact a:
+
+Did you provide a fix for this issue:
+
+...
+
+--------------------------------------------------------------------
+                              ISSUE 3
+Vulnerability:
+
+Vulnerability: Describe where the code is vulnerable (function and line number(s)),
+and what the issue is.
+
+Exploit a:
+Impact a:
+
+Did you provide a fix for this issue:
+
+...
+
+--------------------------------------------------------------------
+                              ISSUE 4
+Vulnerability:
+
+Vulnerability: Describe where the code is vulnerable (function and line number(s)),
+and what the issue is.
+
+Exploit a:
+Impact a:
+
+Did you provide a fix for this issue:
+
+...
+
+--------------------------------------------------------------------
+                              ISSUE 5
+Vulnerability:
+
+Vulnerability: Describe where the code is vulnerable (function and line number(s)),
+and what the issue is.
+
+Exploit a:
+Impact a:
+
+Did you provide a fix for this issue: 
+
+...
+
+--------------------------------------------------------------------
+
+				.
+				.
+				.
